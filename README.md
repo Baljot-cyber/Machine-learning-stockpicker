@@ -1,2 +1,2 @@
-# machine-learning-stockpicker
+# Machine-learning-stockpicker
 machine learning algo to pick stocks in jupyter notebook
